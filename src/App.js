@@ -1,6 +1,9 @@
+import './Styles/estilosGlobais.scss';
+import PaginaInicial from "./Paginas/PaginaInicial";
+
 function App() {
   return (
-    <h1>Alura Space</h1>
+    <PaginaInicial />
   );
 }
 
