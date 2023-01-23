@@ -1,6 +1,6 @@
 function App() {
   return (
-    <hr>Alura Space</hr>
+    <h1>Alura Space</h1>
   );
 }
 
